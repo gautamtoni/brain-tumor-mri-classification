@@ -1,0 +1,23 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Dataset
+Training/
+Testing/
+brain_tumor_dataset/
+
+# Temporary files
+*.tmp
+.DS_Store
